@@ -37,7 +37,10 @@ Elle n'est pas parfaite et n'est qu'un reflet de mes ajustements au fur et à me
 # Confidentialité
 ### Listes de blocage
 	oisd
-:radioactive: *Laisser la liste par défaut "Liste de blocage des publicités et des traqueurs par NextDNS" peut causer des problèmes sur des liens d'emails. OISD est spécifiquement conçue pour éviter les problèmes*
+:radioactive: *Laisser la liste par défaut "Liste de blocage des publicités et des traqueurs par NextDNS" peut causer des problèmes sur des liens qui contiennent des traqueurs marketing (relativement courant). La liste OISD est spécifiquement conçue pour éviter les problèmes.*
+
+*ex: liens affiliés présents sur le site wishupon.app (skimresources.com, ocu.sequoiaparis.com, awin1.com, etc...), liens dans des emails (hello.heroku.com, campaign.adobe.com dans les mails SNCF, etc...), et certainement d'autres...*
+
 ### Protection contre le suivi natif
 	Apple
 	Windows
